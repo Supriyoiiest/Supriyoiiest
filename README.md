@@ -1,12 +1,10 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Rituparna 🥳</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> My self Supriyo Pal 😊</h1>
 
-![](https://komarev.com/ghpvc/?username=rituparna-ui) [![wakatime](https://wakatime.com/badge/user/a4a78b55-1646-4e6c-ab37-49a3aed24765.svg)](https://wakatime.com/@a4a78b55-1646-4e6c-ab37-49a3aed24765)
+![](https://komarev.com/ghpvc/?username=Supriyoiiest) 
 
 - 🔭 I’m currently learning and working on NodeJS, Angular, Flutter, MongoDB, React and NextJS
 - 👯 I’m looking to collaborate on **Backend Development** and **ME(F/A/R)N Stack**
-- 🧑‍🔬 I'm currently working as an SDE Intern at [Edfora](https://www.edfora.com/)
-- 📫 How to reach me: rwarwatkar@gmail.com or message me on [whatsapp](https://wa.me/917798516764)
-- ⚡ Fun fact: Hue Hue
+- 📫 How to reach me: supriyoiiests@gmail.com or connect with me on [linkedin](https://www.linkedin.com/in/supriyo-pal-iiest/)
 
 ### Languages and Tools:
 
@@ -42,8 +40,7 @@
 <br />
 <br />
 
-![Ritu's GitHub stats](https://github-readme-stats.vercel.app/api?username=rituparna-ui&theme=radical&show_icons=true&count_private=true&include_all_commits=true)
 
-![Ritu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rituparna-ui&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+![Supriyo's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Supriyoiiest&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
 
-![Ritu's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rituparna-ui&layout=compact&theme=tokyonight)
+![Supriyo's Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Supriyoiiest&layout=compact&theme=tokyonight)
